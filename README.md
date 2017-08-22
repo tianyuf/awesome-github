@@ -1,5 +1,6 @@
 # [awesome-github](https://github.com/AntBranch/awesome-github)
 [![Slack](https://antbr.herokuapp.com/badge.svg)](https://antbr.herokuapp.com/) 
+[![Juejin](https://badge.juejin.im/entry/56d7a0f31532bc0050741afc/likes.svg?style=flat-square)](https://juejin.im/entry/56d7a0f31532bc0050741afc/detail)
 
 收集这个[awesome-github](https://github.com/AntBranch/awesome-github)列表，只是为了更好地使用亲爱的GitHub,欢迎提交pr和issue。
 ###  目录
@@ -192,6 +193,7 @@
 #### 常用工具
 
  * [http://shields.io/](http://shields.io/) - 开源项目的徽章
+ * [掘金 Badge](https://juejin.im/post/599abc986fb9a0247321862f) - 生成 [掘金 juejin.im](https://juejin.im/) 的分享喜欢数徽章
  * [Classroom for GitHub](https://github.com/education/classroom) - Classroom for GitHub 可以自动创建代码仓库和访问控制，可以让老师很方便的在 GitHub 上发布代码任务和收集作业。
  * [Hexo](https://github.com/hexojs/hexo) - 通过Github Pages写博客的Node.js框架
  * [octicons](https://github.com/github/octicons) - GitHub的 图标字体
@@ -204,6 +206,7 @@
  * [boennemann - badges](https://github.com/boennemann/badges) - 各种徽章
  * [GitTorrent](https://github.com/cjb/GitTorrent)
  * [Insight.io](https://juejin.im/entry/597025d9518825419f7b65ba) - 一款Chrome浏览器插件(可能是迄今为止最好的 GitHub 代码浏览插件)
+ 
 #### 桌面工具
 
  * [ohmystar](http://www.ohmystarapp.com/) - Mac上管理你GitHub star的工具
